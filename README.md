@@ -6,6 +6,7 @@
 
 This project uses or references code from the following open-source projects:
 
+- [FedML](https://github.com/FedML-AI/FedML/)
 - [PFLlib](https://github.com/TsingZ0/PFLlib)
 - [FedDC](https://github.com/gaoliang13/FedDC)
 - [FedLPS](https://github.com/YongzheJia/FedLPS/)
